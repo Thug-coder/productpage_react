@@ -3,7 +3,7 @@ const product_card = [
         id: 1,
         product_name: "Evee 1",
         description: "Max. Speed 150 Kmph",
-        price: 150000,
+        price: 100000,
         currency: "₹",
         thumb: "https://images.squarespace-cdn.com/content/v1/572b8cae40261d167186e601/1465607563454-XP1MQC1FFYLZU4O9L9QH/Concept+Bike.5.png?format=1000w"
     },
